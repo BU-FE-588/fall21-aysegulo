@@ -3,6 +3,7 @@
 Hello there! Welcome to my Progress Journal created for FE 588 course at Bogazici University
 
 
+
 >"Do or do not. There is no try."
 
 
@@ -15,6 +16,7 @@ Hello there! Welcome to my Progress Journal created for FE 588 course at Bogazic
 ### Final Exam
 
 
+![image](https://user-images.githubusercontent.com/93233744/139822937-caa25af3-e986-4648-ab18-4984f301de24.png)
 >“Always pass on what you have learned.”
 
 ### Individual Final Project
