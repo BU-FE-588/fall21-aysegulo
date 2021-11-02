@@ -1,4 +1,4 @@
-## Welcome to GitHub Pages
+## Ayşe Gül's Progress Journal
 
 You can use the [editor on GitHub](https://github.com/BU-FE-588/fall21-aysegulo/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
 
