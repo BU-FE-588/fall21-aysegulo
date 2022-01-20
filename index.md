@@ -22,6 +22,9 @@ Hello there! Welcome to my Progress Journal created for FE 588 course at Bogazic
 
 [Answers](https://github.com/BU-FE-588/fall21-aysegulo/blob/python/Homework%203%20and%204.ipynb)
 
+### Homework Assignments 5 (A prerequisite for Project)
+[Answers](https://github.com/BU-FE-588/fall21-aysegulo/blob/python/Homework%205.ipynb)
+
 ## Final Exam
 
 
